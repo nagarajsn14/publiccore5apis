@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "publiccore5apis", "publiccore5apis.csproj", "{ECDE9E2E-687D-476A-AE4D-5948A451F08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDE9E2E-687D-476A-AE4D-5948A451F08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDE9E2E-687D-476A-AE4D-5948A451F08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDE9E2E-687D-476A-AE4D-5948A451F08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDE9E2E-687D-476A-AE4D-5948A451F08C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {657BD53A-98B0-4409-A690-E67AE2B174F5}
+	EndGlobalSection
+EndGlobal
